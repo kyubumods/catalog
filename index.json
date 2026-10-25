@@ -1,6 +1,6 @@
 {
   "format": 1,
-  "generated": "2026-10-25T08:38:52Z",
+  "generated": "2026-10-25T08:39:24Z",
   "name": "Penchev",
   "mods": [
     {
@@ -42,7 +42,9 @@
     {
       "id": "mod_manager",
       "name": "ModManager",
-      "authors": [],
+      "authors": [
+        "Penchev"
+      ],
       "description": "A Mods page on the title screen to enable, disable, configure, install and remove mods.",
       "versions": [
         {
@@ -57,6 +59,19 @@
           "dependencies": {},
           "published": "2026-10-25",
           "changes": "First release"
+        },
+        {
+          "version": "0.1.1",
+          "kyubu": "^1.2",
+          "sides": [
+            "client"
+          ],
+          "url": "mods/mod_manager/mod_manager-0.1.1.zip",
+          "size": 831856,
+          "sha256": "765f507b4f53b916b359959093f409e15e834b66faf06828b30925e6a276e09e",
+          "dependencies": {},
+          "published": "2026-10-25",
+          "changes": "Author set to Penchev"
         }
       ]
     },
