@@ -1,12 +1,14 @@
 {
   "format": 1,
-  "generated": "2026-10-25T08:35:15Z",
+  "generated": "2026-10-25T08:38:52Z",
   "name": "Penchev",
   "mods": [
     {
       "id": "emtweaks",
       "name": "EMTweaks",
-      "authors": [],
+      "authors": [
+        "Penchev"
+      ],
       "description": "Adds effects other mods depend on.",
       "versions": [
         {
@@ -21,6 +23,19 @@
           "dependencies": {},
           "published": "2026-10-25",
           "changes": "First release"
+        },
+        {
+          "version": "0.1.1",
+          "kyubu": "^1.1",
+          "sides": [
+            "client"
+          ],
+          "url": "mods/emtweaks/emtweaks-0.1.1.zip",
+          "size": 273994,
+          "sha256": "197d9d754548e26044ad07d85889096c3bb464c74e78eaf4f77c4d3786df3322",
+          "dependencies": {},
+          "published": "2026-10-25",
+          "changes": "Author set to Penchev"
         }
       ]
     },
