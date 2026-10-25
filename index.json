@@ -1,6 +1,6 @@
 {
   "format": 1,
-  "generated": "2026-10-25T08:39:27Z",
+  "generated": "2026-10-25T08:52:45Z",
   "name": "Penchev",
   "mods": [
     {
@@ -72,6 +72,19 @@
           "dependencies": {},
           "published": "2026-10-25",
           "changes": "Author set to Penchev"
+        },
+        {
+          "version": "0.1.2",
+          "kyubu": "^1.2",
+          "sides": [
+            "client"
+          ],
+          "url": "mods/mod_manager/mod_manager-0.1.2.zip",
+          "size": 831825,
+          "sha256": "2fb9ddbcdafc703aa11e7fa39a491cb821778a87e93adc34a5afb7eb700f30e6",
+          "dependencies": {},
+          "published": "2026-10-25",
+          "changes": "ModManager can now download its own updates from the Install tab."
         }
       ]
     },
