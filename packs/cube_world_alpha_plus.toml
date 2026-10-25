@@ -2,7 +2,7 @@ id = "cube_world_alpha_plus"
 name = "Cube World Alpha Plus"
 version = "0.1.0"
 authors = ["Penchev"]
-description = "EMTweaks effects, SkillsUnleashed abilities, the level 1 to 100 rework and the CWAP title screen."
+description = "The official Cube World Alpha Plus modpack, adds various vanilla-like content to enhance the player's journey"
 kyubu = "^1.1"
 reset_unlisted = true
 

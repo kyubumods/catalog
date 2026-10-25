@@ -1,6 +1,6 @@
 {
   "format": 1,
-  "generated": "2026-10-25T08:58:28Z",
+  "generated": "2026-10-25T09:03:03Z",
   "name": "Penchev",
   "mods": [
     {
@@ -186,7 +186,7 @@
         "Penchev"
       ],
       "version": "0.1.0",
-      "description": "EMTweaks effects, SkillsUnleashed abilities, the level 1 to 100 rework and the CWAP title screen.",
+      "description": "The official Cube World Alpha Plus modpack, adds various vanilla-like content to enhance the player's journey",
       "kyubu": "^1.1",
       "mods": {
         "emtweaks": "0.1.1",
