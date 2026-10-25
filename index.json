@@ -1,6 +1,6 @@
 {
   "format": 1,
-  "generated": "2026-10-25T08:39:24Z",
+  "generated": "2026-10-25T08:39:27Z",
   "name": "Penchev",
   "mods": [
     {
@@ -78,7 +78,9 @@
     {
       "id": "skills_unleashed",
       "name": "SkillsUnleashed",
-      "authors": [],
+      "authors": [
+        "Penchev"
+      ],
       "description": "A new fourth ability for every specialization and changes vanilla ones",
       "versions": [
         {
@@ -96,6 +98,22 @@
           },
           "published": "2026-10-25",
           "changes": "First release"
+        },
+        {
+          "version": "0.1.1",
+          "kyubu": "^1.1",
+          "sides": [
+            "client",
+            "server"
+          ],
+          "url": "mods/skills_unleashed/skills_unleashed-0.1.1.zip",
+          "size": 1523546,
+          "sha256": "5dd9dcde8462d154ba9093824c041778491274333e4d85099caebad0cb03d65c",
+          "dependencies": {
+            "emtweaks": "^0.1"
+          },
+          "published": "2026-10-25",
+          "changes": "Author set to Penchev"
         }
       ]
     }
