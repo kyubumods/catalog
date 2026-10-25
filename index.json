@@ -1,6 +1,6 @@
 {
   "format": 1,
-  "generated": "2026-10-25T08:52:45Z",
+  "generated": "2026-10-25T08:58:28Z",
   "name": "Penchev",
   "mods": [
     {
@@ -36,6 +36,30 @@
           "dependencies": {},
           "published": "2026-10-25",
           "changes": "Author set to Penchev"
+        }
+      ]
+    },
+    {
+      "id": "level_rework",
+      "name": "Level rework",
+      "authors": [
+        "Penchev"
+      ],
+      "description": "The progression system reworked to be capped to levels 1 to 100",
+      "versions": [
+        {
+          "version": "0.1.0",
+          "kyubu": "^1.1",
+          "sides": [
+            "client",
+            "server"
+          ],
+          "url": "mods/level_rework/level_rework-0.1.0.zip",
+          "size": 166669,
+          "sha256": "5ca708ea54acc2c0b97d50c5070919a632068e0395ec8480b0f1141fdd60d1f7",
+          "dependencies": {},
+          "published": "2026-10-25",
+          "changes": "First release"
         }
       ]
     },
@@ -129,7 +153,49 @@
           "changes": "Author set to Penchev"
         }
       ]
+    },
+    {
+      "id": "title_plus",
+      "name": "CWAP title",
+      "authors": [
+        "Penchev"
+      ],
+      "description": "Cube World Alpha Plus title screen",
+      "versions": [
+        {
+          "version": "0.1.0",
+          "kyubu": "^1.1",
+          "sides": [
+            "client"
+          ],
+          "url": "mods/title_plus/title_plus-0.1.0.zip",
+          "size": 126272,
+          "sha256": "bdef9e9f80362dca8d1b6376ebec07c6de417b23383fa46fb58de300398d5df4",
+          "dependencies": {},
+          "published": "2026-10-25",
+          "changes": "First release"
+        }
+      ]
     }
   ],
-  "packs": []
+  "packs": [
+    {
+      "id": "cube_world_alpha_plus",
+      "name": "Cube World Alpha Plus",
+      "authors": [
+        "Penchev"
+      ],
+      "version": "0.1.0",
+      "description": "EMTweaks effects, SkillsUnleashed abilities, the level 1 to 100 rework and the CWAP title screen.",
+      "kyubu": "^1.1",
+      "mods": {
+        "emtweaks": "0.1.1",
+        "level_rework": "0.1.0",
+        "skills_unleashed": "0.1.1",
+        "title_plus": "0.1.0"
+      },
+      "config": {},
+      "reset_unlisted": true
+    }
+  ]
 }

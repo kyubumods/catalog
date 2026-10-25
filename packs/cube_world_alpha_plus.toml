@@ -1,0 +1,13 @@
+id = "cube_world_alpha_plus"
+name = "Cube World Alpha Plus"
+version = "0.1.0"
+authors = ["Penchev"]
+description = "EMTweaks effects, SkillsUnleashed abilities, the level 1 to 100 rework and the CWAP title screen."
+kyubu = "^1.1"
+reset_unlisted = true
+
+[mods]
+emtweaks = "0.1.1"
+skills_unleashed = "0.1.1"
+level_rework = "0.1.0"
+title_plus = "0.1.0"
