@@ -1,6 +1,6 @@
 {
   "format": 1,
-  "generated": "2026-10-26T22:35:19Z",
+  "generated": "2026-10-26T22:40:54Z",
   "name": "Penchev",
   "mods": [
     {
@@ -191,6 +191,22 @@
           },
           "published": "2026-10-25",
           "changes": "Author set to Penchev"
+        },
+        {
+          "version": "0.1.2",
+          "kyubu": "^1.1",
+          "sides": [
+            "client",
+            "server"
+          ],
+          "url": "mods/skills_unleashed/skills_unleashed-0.1.2.zip",
+          "size": 1536307,
+          "sha256": "fc3dc49418511b18dc13aff7d75e37b4f9c72f6bc83428245ada41902447c430",
+          "dependencies": {
+            "emtweaks": "^0.1"
+          },
+          "published": "2026-10-27",
+          "changes": "For Cube World Alpha 2013-07-20, the build Kyubu now targets. Also: the Assassin rework (stealth, dashes, smoke, afterimages, clones that match the weapon), Sniper and Fire Mage updates."
         }
       ]
     },
