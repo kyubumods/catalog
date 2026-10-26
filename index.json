@@ -1,6 +1,6 @@
 {
   "format": 1,
-  "generated": "2026-10-26T22:34:43Z",
+  "generated": "2026-10-26T22:34:48Z",
   "name": "Penchev",
   "mods": [
     {
@@ -201,6 +201,19 @@
           "dependencies": {},
           "published": "2026-10-25",
           "changes": "First release"
+        },
+        {
+          "version": "0.1.1",
+          "kyubu": "^1.1",
+          "sides": [
+            "client"
+          ],
+          "url": "mods/title_plus/title_plus-0.1.1.zip",
+          "size": 126272,
+          "sha256": "7211f5c285f20797b3bd8a97b78782900e4213f82d04d61996f5db2b7f16e73a",
+          "dependencies": {},
+          "published": "2026-10-27",
+          "changes": "For Cube World Alpha 2013-07-20, the build Kyubu now targets (GameController offsets and symbol addresses ported from 2013-07-02)."
         }
       ]
     }
