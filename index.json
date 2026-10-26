@@ -1,6 +1,6 @@
 {
   "format": 1,
-  "generated": "2026-10-25T09:03:03Z",
+  "generated": "2026-10-26T22:34:21Z",
   "name": "Penchev",
   "mods": [
     {
@@ -36,6 +36,19 @@
           "dependencies": {},
           "published": "2026-10-25",
           "changes": "Author set to Penchev"
+        },
+        {
+          "version": "0.1.2",
+          "kyubu": "^1.1",
+          "sides": [
+            "client"
+          ],
+          "url": "mods/emtweaks/emtweaks-0.1.2.zip",
+          "size": 273996,
+          "sha256": "3b3909d5412ddacbcae1c54df9d14015cdabca20c82236020a9377f52a6ed3c8",
+          "dependencies": {},
+          "published": "2026-10-27",
+          "changes": "For Cube World Alpha 2013-07-20, the build Kyubu now targets (GameController offsets and symbol addresses ported from 2013-07-02)."
         }
       ]
     },
