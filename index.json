@@ -1,6 +1,6 @@
 {
   "format": 1,
-  "generated": "2026-10-26T22:34:21Z",
+  "generated": "2026-10-26T22:34:43Z",
   "name": "Penchev",
   "mods": [
     {
@@ -73,6 +73,20 @@
           "dependencies": {},
           "published": "2026-10-25",
           "changes": "First release"
+        },
+        {
+          "version": "0.1.1",
+          "kyubu": "^1.1",
+          "sides": [
+            "client",
+            "server"
+          ],
+          "url": "mods/level_rework/level_rework-0.1.1.zip",
+          "size": 166651,
+          "sha256": "5f837d3f669b24b6b1a5623ed5259499b4f6619e63151a4fcbc739d75f5a622f",
+          "dependencies": {},
+          "published": "2026-10-27",
+          "changes": "For Cube World Alpha 2013-07-20, the build Kyubu now targets (GameController offsets and symbol addresses ported from 2013-07-02)."
         }
       ]
     },
