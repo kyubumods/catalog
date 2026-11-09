@@ -1,6 +1,6 @@
 {
   "format": 1,
-  "generated": "2026-11-09T15:47:15Z",
+  "generated": "2026-11-09T18:15:34Z",
   "name": "Penchev",
   "mods": [
     {
@@ -87,6 +87,20 @@
           "dependencies": {},
           "published": "2026-10-27",
           "changes": "For Cube World Alpha 2013-07-20, the build Kyubu now targets (GameController offsets and symbol addresses ported from 2013-07-02)."
+        },
+        {
+          "version": "0.1.2",
+          "kyubu": "^1.1",
+          "sides": [
+            "client",
+            "server"
+          ],
+          "url": "mods/level_rework/level_rework-0.1.2.zip",
+          "size": 165807,
+          "sha256": "d7fb63f79361e780c754f6365bb13aba2fa8151c17cf9ece469fc08262cb5eef",
+          "dependencies": {},
+          "published": "2026-11-09",
+          "changes": "The join gate is now the Kyubu loader's: with SkillsUnleashed, abilities work in multiplayer again"
         }
       ]
     },
