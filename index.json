@@ -1,6 +1,6 @@
 {
   "format": 1,
-  "generated": "2026-11-09T18:17:58Z",
+  "generated": "2026-11-09T20:31:55Z",
   "name": "Penchev",
   "mods": [
     {
@@ -266,6 +266,22 @@
           },
           "published": "2026-11-09",
           "changes": "In a joined game without the join gate, abilities now turn off with a message instead of half-working"
+        },
+        {
+          "version": "0.1.5",
+          "kyubu": "^1.4",
+          "sides": [
+            "client",
+            "server"
+          ],
+          "url": "mods/skills_unleashed/skills_unleashed-0.1.5.zip",
+          "size": 1605309,
+          "sha256": "4eba10e6c107c9213b1ecda5f0906bc9bd99285f71b57d3789a241ce38994593",
+          "dependencies": {
+            "emtweaks": "^0.1"
+          },
+          "published": "2026-11-09",
+          "changes": "Bystanders see the Bow of Light and the Chain of the Deep; Fire Circle ticks get past resistance; placed sounds fade with distance; a ground smoke bomb stuns the nearest enemy"
         }
       ]
     },
