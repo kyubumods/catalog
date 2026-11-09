@@ -1,6 +1,6 @@
 {
   "format": 1,
-  "generated": "2026-11-09T18:15:34Z",
+  "generated": "2026-11-09T18:16:41Z",
   "name": "Penchev",
   "mods": [
     {
@@ -250,6 +250,22 @@
           },
           "published": "2026-11-09",
           "changes": "Assassin cooldown is now 30 s at rank 1 toward 20 s (was a 1 s test value). Scout trap debug logging only with the log_effects option. Code and comment cleanup."
+        },
+        {
+          "version": "0.1.4",
+          "kyubu": "^1.4",
+          "sides": [
+            "client",
+            "server"
+          ],
+          "url": "mods/skills_unleashed/skills_unleashed-0.1.4.zip",
+          "size": 1600591,
+          "sha256": "dc098121d685448bf83e2d6dfe50ff938023b8a39ede6ff9a630406a9d9e6206",
+          "dependencies": {
+            "emtweaks": "^0.1"
+          },
+          "published": "2026-11-09",
+          "changes": "In a joined game without the join gate, abilities now turn off with a message instead of half-working"
         }
       ]
     },
