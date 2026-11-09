@@ -1,6 +1,6 @@
 id = "cube_world_alpha_plus"
 name = "Cube World Alpha Plus"
-version = "0.1.3"
+version = "0.1.4"
 authors = ["Penchev"]
 description = "The official Cube World Alpha Plus modpack, adds various vanilla-like content to enhance the player's journey"
 kyubu = "^1.4"
@@ -8,6 +8,6 @@ reset_unlisted = true
 
 [mods]
 emtweaks = "0.1.2"
-skills_unleashed = "0.1.4"
+skills_unleashed = "0.1.5"
 level_rework = "0.1.2"
 title_plus = "0.1.1"

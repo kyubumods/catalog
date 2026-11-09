@@ -1,6 +1,6 @@
 {
   "format": 1,
-  "generated": "2026-11-09T20:31:55Z",
+  "generated": "2026-11-09T20:32:38Z",
   "name": "Penchev",
   "mods": [
     {
@@ -329,13 +329,13 @@
       "authors": [
         "Penchev"
       ],
-      "version": "0.1.3",
+      "version": "0.1.4",
       "description": "The official Cube World Alpha Plus modpack, adds various vanilla-like content to enhance the player's journey",
       "kyubu": "^1.4",
       "mods": {
         "emtweaks": "0.1.2",
         "level_rework": "0.1.2",
-        "skills_unleashed": "0.1.4",
+        "skills_unleashed": "0.1.5",
         "title_plus": "0.1.1"
       },
       "config": {},
